@@ -5,7 +5,7 @@ galaxy_info:
   company: no
   license: license GPLv3
   min_ansible_version: 1.2
-  galaxy_tags:
-    - "vagrant"
-    - "ansible"
+#  galaxy_tags:
+#    - "vagrant"
+#    - "ansible"
 #dependencies: []
